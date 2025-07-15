@@ -6,10 +6,6 @@
 python3 <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Fox-scripts/refs/heads/main/247.py)
 ```
 
-Make VPS :-
-bash <(curl -fsSL https://raw.githubusercontent.com/Omar9282jwee/Fox-scripts/refs/heads/main/install.sh)
-
-
 
 ### Make-VPS-code
 
