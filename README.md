@@ -19,3 +19,36 @@ bash <(curl -fsSL https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/ref
 ```
 bash <(curl -fsSL https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/refs/heads/main/install-playit.sh)
 ```
+
+
+
+
+### Fox-Openports
+This script shows all open ports on your server using netstat.
+```
+bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/main/fox-openports.sh)
+```
+
+
+
+
+
+### Fox-Speedtest
+This script runs an internet speed test directly from the VPS.
+```
+bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/main/fox-speedtest.sh)
+```
+
+
+
+
+
+
+
+
+
+### Fox-DDoS
+This script checks the top IPs making connections to your server, useful for detecting potential DDoS activity.
+```
+bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/main/fox-ddos-check.sh)
+```
