@@ -10,12 +10,12 @@ python3 <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/ref
 ### Make-VPS-code
 
 ```
-bash <(curl -fsSL https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/refs/heads/main/install-playit.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/refs/heads/main/install.sh)
 ```
 
 
 ### ip-costom-Minecraft
 
 ```
-bash <(curl -fsSL https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/refs/heads/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/refs/heads/main/install-playit.sh)
 ```
