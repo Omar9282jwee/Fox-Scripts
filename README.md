@@ -64,3 +64,14 @@ Shows RAM, CPU, and disk usage of the server instantly.
 ```
 bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/refs/heads/main/fox-system-usage.sh)
 ```
+
+
+
+
+### Fox-Cleaner
+Cleans server logs, cache, and temp files in seconds.  
+Perfect for freeing up disk space and boosting performance.  
+🦊 Made to keep your server fresh and fast!
+```
+bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/refs/heads/main/fox-cleaner.sh)
+```
