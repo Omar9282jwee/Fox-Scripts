@@ -62,5 +62,5 @@ bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/main/f
 ### Fox-System-Usage
 Shows RAM, CPU, and disk usage of the server instantly. 
 ```
-bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/main/fox-ddos-check.sh)
+bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/refs/heads/main/fox-system-usage.sh)
 ```
