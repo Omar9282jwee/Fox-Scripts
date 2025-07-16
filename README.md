@@ -75,3 +75,15 @@ Perfect for freeing up disk space and boosting performance.
 ```
 bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/refs/heads/main/fox-cleaner.sh)
 ```
+
+
+
+
+
+
+
+### Fox-Log
+Quick system log check for errors and failures.
+```
+bash <(curl -fsSL https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/main/fox-log.sh)
+```
