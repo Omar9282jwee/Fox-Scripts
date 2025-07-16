@@ -47,7 +47,7 @@ bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/main/f
 
 
 
-### Fox-DDoS
+### Fox-DDoS-Check
 This script checks the top IPs making connections to your server, useful for detecting potential DDoS activity.
 ```
 bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/main/fox-ddos-check.sh)
