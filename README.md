@@ -52,3 +52,15 @@ This script checks the top IPs making connections to your server, useful for det
 ```
 bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/main/fox-ddos-check.sh)
 ```
+
+
+
+
+
+
+
+### Fox-System-Usage
+Shows RAM, CPU, and disk usage of the server instantly. 
+```
+bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/main/fox-ddos-check.sh)
+```
