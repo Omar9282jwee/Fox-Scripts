@@ -1,14 +1,14 @@
 # Fox-scripts
 
 ### 24/7-hour-online-code
-
+Keeps your bot or server running 24/7 without disconnecting, even if you're offline.
 ```
 python3 <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/refs/heads/main/247.py)
 ```
 
 
 ### Make-VPS-code
-
+Instantly creates a free VPS using a simple script — fast and easy to deploy.
 ```
 bash <(curl -fsSL https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/refs/heads/main/install.sh)
 ```
