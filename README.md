@@ -87,3 +87,12 @@ Quick system log check for errors and failures.
 ```
 bash <(curl -fsSL https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/main/fox-log.sh)
 ```
+
+
+
+
+### Fox-Check-Updates
+🛡️ Check for system or security updates to keep your VPS secure and stable.
+```
+bash <(curl -fsSL https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/main/fox-log.sh)
+```
