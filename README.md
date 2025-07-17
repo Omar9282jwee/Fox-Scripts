@@ -94,5 +94,5 @@ bash <(curl -fsSL https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/mai
 ### Fox-Check-Updates
 🛡️ Check for system or security updates to keep your VPS secure and stable.
 ```
-bash <(curl -fsSL https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/main/fox-log.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/refs/heads/main/fox-check-updates.sh)
 ```
