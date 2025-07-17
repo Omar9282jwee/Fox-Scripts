@@ -1,13 +1,6 @@
 #!/bin/bash
 
-echo "🔍 Checking for system updates...
-       _____         
-      |  ___|____  __
-      | |_ / _ \ \/ /
-      |  _| (_) >  < 
-      |_|  \___/_/\_\
-
-"
+echo "🔍 Checking for system updates..."
 
 if command -v apt >/dev/null 2>&1; then
     sudo apt update > /dev/null
